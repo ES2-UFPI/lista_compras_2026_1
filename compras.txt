@@ -26,3 +26,4 @@ chocolate
 pão de queijo
 queijo
 manteiga
+morango
