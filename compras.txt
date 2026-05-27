@@ -42,9 +42,15 @@ lichia
 the one edp
 telescópio para ver um buraco negro no espaço cideral
 rx580 seco edition
+<<<<<<< HEAD
 
 Arroz
 Feijao
 Macarrao
 Ovos
 Cafe
+=======
+whey
+sardinha
+ovo
+>>>>>>> e0abea966b23b688ab42b1413b4b9c1df8e6ad44
