@@ -1,4 +1,15 @@
-arroz
+cafe
+PAo
+cuzcuz
+arrumadinho
+pera
+salada
+cocacola
+sabao
+shampu 
+condicinador
+mamao
+oarroz
 farinha
 macarrão
 feijão
@@ -31,3 +42,9 @@ lichia
 the one edp
 telescópio para ver um buraco negro no espaço cideral
 rx580 seco edition
+
+Arroz
+Feijao
+Macarrao
+Ovos
+Cafe
